@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"vpn_ha","Source":"terraform-google-modules/vpn/google//modules/vpn_ha","Version":"1.5.0","Dir":".terraform/modules/vpn_ha/modules/vpn_ha"}]}
